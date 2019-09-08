@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66667 158.75"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="Manjaro.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5514">
+      <rect
+         inkscape:label="Shadow mask"
+         id="rect5516"
+         y="1.9875739e-05"
+         x="0"
+         height="600"
+         width="800"
+         style="opacity:0.95999995;fill:#35bf5c;fill-opacity:1;stroke:none;stroke-width:1;stroke-opacity:1" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="261.3734"
+     inkscape:cy="306.3966"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       id="grid815"
+       type="xygrid"
+       units="px"
+       spacingy="39.6875"
+       spacingx="52.916667"
+       empspacing="2" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5335"
+       orientation="0,1"
+       position="162.52976,127.75595" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide5337"
+       orientation="0,1"
+       position="176.13691,31.75" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Tile"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-138.25001)">
+    <rect
+       style="opacity:0.95999995;fill:#35bf5c;fill-opacity:1;stroke:none;stroke-width:0.26458335;stroke-opacity:1"
+       width="211.66667"
+       height="158.75"
+       x="0"
+       y="138.25002"
+       id="rect817"
+       inkscape:label="Background" />
+    <path
+       style="display:inline;opacity:0.2020202;stroke-width:17.14286423"
+       d="m 217.14258,117.14258 v 365.71484 l 304.66797,304.66797 h 102.85742 v -28.57227 l 28.57226,28.57227 h 102.85743 v -28.57031 l 28.57031,28.57031 H 887.52539 V 421.81055 L 582.85742,117.14258 V 220 L 480,117.14258 v 28.57226 L 451.42773,117.14258 V 220 H 320 Z"
+       id="path5458"
+       inkscape:connector-curvature="0"
+       inkscape:label="Shadow"
+       transform="matrix(0.26458334,0,0,0.26458334,0,138.25001)"
+       clip-path="url(#clipPath5514)" />
+    <path
+       id="rect4142"
+       style="display:inline;opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:none;stroke-width:4.53571606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 126.99999,169.24403 v 96.76196 h 27.2143 V 169.24403 Z M 92.2262,204.01786 v 61.98813 h 27.21426 V 204.01786 Z M 57.45238,169.24403 v 96.76196 h 27.214293 v -69.54766 h 34.773787 v -27.2143 z"
+       inkscape:connector-curvature="0"
+       inkscape:label="Logo" />
+  </g>
+</svg>
