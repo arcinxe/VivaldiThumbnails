@@ -20,5 +20,5 @@ for svgFile in SVGs/*.svg; do
      echo "Processing..."
      
  
-     inkscape -z -e "${pngFile}" -w $width -h $height "${svgFile}"
+     inkscape --export-filename="${pngFile}" -w $width -h $height "${svgFile}"
 done
